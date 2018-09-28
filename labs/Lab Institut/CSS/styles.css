@@ -112,13 +112,18 @@ label{
 	margin-left:50px;
 }
 #Commentaires{
-	height:80px;
-	padding-right:80px;
 	vertical-align:top;
+	height:100px;
+	padding-right:150px;
+}
+#catégorie{
+	padding-right:50px;
+
+
 }
 div{
 	padding-top:10px;
-	
+
 }
 hr {
 	border:1px solid #16676a;
@@ -158,7 +163,6 @@ footer a:active {
 footer p {
 	color:#135d60;
 	text-align:center;
-
 }
 
 
