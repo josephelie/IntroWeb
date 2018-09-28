@@ -96,6 +96,7 @@ section {
 	background:white;
 	float:left;
 	width:884px;
+
 }
 section h1 {
 	color:#b1cb97;
@@ -108,13 +109,11 @@ section p {
 label{
 	display:inline-block;
 	width:150px;
-	margin-bottom:0px;
-
+	padding-top:10px;
 }
 #Commentaires{
-	height:100px;
+	height:80;
 	vertical-align:top;
-	padding-right:50px;
 
 }
 hr {
