@@ -109,12 +109,16 @@ section p {
 label{
 	display:inline-block;
 	width:150px;
-	padding-top:10px;
+	margin-left:50px;
 }
 #Commentaires{
-	height:80;
+	height:80px;
+	padding-right:80px;
 	vertical-align:top;
-
+}
+div{
+	padding-top:10px;
+	
 }
 hr {
 	border:1px solid #16676a;
