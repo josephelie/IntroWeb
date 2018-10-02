@@ -116,14 +116,27 @@ label{
 	height:100px;
 	padding-right:150px;
 }
-#catégorie{
-	padding-right:50px;
+span{
+	color:red;
+}
+div{
+	padding-bottom:10px;
+}
+#click{
+	display:inline-block;
+	padding-right:90px;
+	padding-left:90px;
+	float:left;
+	margin-left:50px;
 
 
 }
-div{
-	padding-top:10px;
-
+#click2{
+	display:inline-block;
+	padding-right:90px;
+	padding-left:90px;
+	float:left;
+	margin-left:5px;
 }
 hr {
 	border:1px solid #16676a;
