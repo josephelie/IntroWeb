@@ -113,8 +113,10 @@ label{
 }
 #Commentaires{
 	vertical-align:top;
-	height:100px;
 	padding-right:150px;
+	padding-bottom:80px;
+	margin-bottom:10px;
+	white-space:pre;
 }
 span{
 	color:red;
