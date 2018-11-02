@@ -12,7 +12,7 @@ function btnCalculer_onclick()
     {
         nbre4 = nbre4 +2 * nbre1;
     }
-    else if((nbre1 = nbre2) || (nbre2 > nbre3))
+    else if((nbre1 == nbre2) || (nbre2 > nbre3))
     {
         nbre4 = nbre4 + nbre1;
     }
