@@ -1,0 +1,1335 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <meta property="og:type" content="forum" />
+    <meta property="og:url" content="http://forums.ltheory.com/index.php" />
+    <meta property="og:image" content="http://ltheory.com/images/ogimage.jpg" />
+    <meta property="og:description" content="Images! - Limit Theory Forums" />
+    <meta property="og:title" content="Images! - Limit Theory Forums" />
+    <title>Images! - Limit Theory Forums</title>
+        <link rel="alternate" type="application/atom+xml" title="Feed - Limit Theory Forums" href="/app.php/feed?sid=0da435ae2395ae97f23706c03a1d5285">    <link rel="alternate" type="application/atom+xml" title="Feed - News" href="/app.php/feed/news?sid=0da435ae2395ae97f23706c03a1d5285">        <link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/app.php/feed/topics?sid=0da435ae2395ae97f23706c03a1d5285">    <link rel="alternate" type="application/atom+xml" title="Feed - Active Topics" href="/app.php/feed/topics_active?sid=0da435ae2395ae97f23706c03a1d5285">    <link rel="alternate" type="application/atom+xml" title="Feed - Forum - Everything &amp; Anything" href="/app.php/feed/forum/10?sid=0da435ae2395ae97f23706c03a1d5285">    <link rel="alternate" type="application/atom+xml" title="Feed - Topic - Images!" href="/app.php/feed/topic/5406?sid=0da435ae2395ae97f23706c03a1d5285">    <link rel="canonical" href="http://forums.ltheory.com/viewtopic.php?t=5406">        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,700,700italic" media="all">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="all">
+    <link rel="stylesheet" href="./styles/ravaio/theme/stylesheet.css?assets_version=21">
+    <link rel="stylesheet" href="./styles/ravaio/theme/colors_dark_lime.css?assets_version=21">
+    <link rel="shortcut icon" href="http://ltheory.com/forums/favicon.ico" />
+
+    <style>
+      .chunk {
+        max-width: 85%;
+      }
+      .dropdown-profile {
+        left: 150px;
+      }
+      #back-to-top.btt-docked {
+        bottom: auto;
+        position: absolute;
+        top: -18px;
+      }
+      .pm-self .postbody {
+        border-width: 0 1px 0 0;
+      }
+      .pm .postprofile,
+      .pm-self .postprofile {
+        padding: 18px 9px;
+        width: 53px;
+      }
+      .post.reported {
+        border-color: #FFCFDB;
+      }
+      .post.unapproved {
+        border-color: #FFCFBD;
+      }
+      #site-desc-full, #site-desc-small {
+        background-image: url("./styles/ravaio/theme/banner_main.jpg");
+      }
+      #sub-header {
+        background-image: url("./styles/ravaio/theme/banner_main.jpg");
+      }
+    </style>
+  </head>
+  <body id="phpbb" class="nojs notouch section-viewtopic ltr ">
+    <div id="wrap">
+        <div id="wrap-inner">
+            <a id="top" class="anchor" accesskey="t"></a>
+      <div id="wrap-header">
+                <div class="site-header chunk">
+          <nav>
+                        <ul class="site-nav">
+                                                                                          <li>
+                    <span title="Login" accesskey="x" data-toggle="modal" data-target="#quick-login">Login</span>
+                  </li>
+                                                  <li >
+                    <a href="./ucp.php?mode=register&amp;sid=0da435ae2395ae97f23706c03a1d5285">Register</a>
+                  </li>
+                                                                                          <li id="main-search-box" class="re-md-r">
+                  <a data-toggle="dropdown" class="w-drop" href="./search.php?sid=0da435ae2395ae97f23706c03a1d5285"><i class="fa fa-search"></i></a>
+                  <div class="dropdown-search">
+                    <form action="./search.php?sid=0da435ae2395ae97f23706c03a1d5285" method="get">
+                      <fieldset>
+                        <button type="submit" title="Search"><i class="fa fa-search"></i></button><div><input name="keywords" type="search" maxlength="128" title="Search for keywords" size="20" value="" placeholder="Search…" id="main-search" /></div>
+                        <input type="hidden" name="sid" value="0da435ae2395ae97f23706c03a1d5285" />
+
+                      </fieldset>
+                    </form>
+                  </div>
+                </li>
+                            
+              <li class="">
+                <a data-toggle="dropdown" href="#" id="header-mini-menu"><i class="fa fa-bars"></i>
+</a>
+                <ul id="more-menu" class="dropdown-box">
+                                      <li id="main-search-box-md" class="re-md">
+                      <form action="./search.php?sid=0da435ae2395ae97f23706c03a1d5285" method="get">
+                        <fieldset>
+                          <button type="submit" title="Search"><i class="fa fa-search"></i></button><div><input name="keywords" type="search" maxlength="128" title="Search for keywords" size="20" value="" placeholder="Search…" id="main-search-md" /></div>
+                          <input type="hidden" name="sid" value="0da435ae2395ae97f23706c03a1d5285" />
+
+                        </fieldset>
+                      </form>
+                    </li>
+                                    <li class="re-md">
+                    <a href="/app.php/help/faq?sid=0da435ae2395ae97f23706c03a1d5285" rel="help" title="Frequently Asked Questions"><i class="fa fa-question"></i>FAQ</a>
+                  </li>
+
+                  <li class="separator re-md"></li>
+
+                  
+<li class="separator re-md"></li>
+
+                                                                                                  <li><a href="./search.php?search_id=unanswered&amp;sid=0da435ae2395ae97f23706c03a1d5285"><i class="fa fa-comment-o"></i>Unanswered topics</a></li>
+                    <li><a href="./search.php?search_id=active_topics&amp;sid=0da435ae2395ae97f23706c03a1d5285"><i class="fa fa-commenting-o"></i>Active topics</a></li>
+                  
+                                  </ul>
+              </li>
+
+              
+            </ul>
+
+<ul id="breadcrumbs" class="bread-topic"><li><a href="./index.php?sid=0da435ae2395ae97f23706c03a1d5285" accesskey="h" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-navbar-reference="index">LT Forums</a></li><li><a href="./viewforum.php?f=9&amp;sid=0da435ae2395ae97f23706c03a1d5285" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-forum-id="9">Off-Topic</a></li><li><a href="./viewforum.php?f=10&amp;sid=0da435ae2395ae97f23706c03a1d5285" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-forum-id="10">Everything &amp; Anything</a></li></ul>
+          </nav>
+        </div>
+              </div>
+
+      
+      <a id="start_here" class="anchor"></a>
+
+      <div id="page-body" class="page-body" role="main">
+
+        
+<div id="sub-header">
+	<div class="chunk">
+		<div class="sub-header-title">
+			<h2 class="topic-title"><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285">Images!</a></h2>
+
+			
+					</div>
+
+					<div class="sub-header-buttons">
+				
+					<div>
+						<span class="button-round" data-toggle="dropdown"><i class="fa fa-caret-down"></i></span>
+						<ul class="dropdown-box">
+																																																		<li>
+									<a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;view=print" title="Print view" accesskey="p"><i class="fa fa-print"></i>Print view</a>
+								</li>
+																				</ul>
+					</div>					<a href="./posting.php?mode=reply&amp;f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="button icon-button reply-icon" title="Post a reply">
+						<i class="fa fa-pencil"></i><span>Post Reply</span>					</a>
+				
+							</div>
+			</div>
+</div>
+
+<div id="mbrs" class="background-main">
+	<div class="chunk">
+
+		<ul id="breadcrumbs-mid" class="re-md bread-topic"><li><a href="./index.php?sid=0da435ae2395ae97f23706c03a1d5285" accesskey="h" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-navbar-reference="index">LT Forums</a></li><li><a href="./viewforum.php?f=9&amp;sid=0da435ae2395ae97f23706c03a1d5285" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-forum-id="9">Off-Topic</a></li><li><a href="./viewforum.php?f=10&amp;sid=0da435ae2395ae97f23706c03a1d5285" itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="" data-forum-id="10">Everything &amp; Anything</a></li></ul>
+
+					<div class="important-box-rules">
+									<strong><span style="font-size: 115%; line-height: normal"><a href="http://forums.ltheory.com/viewtopic.php?t=160#p1882" class="postlink"><span style="color: #A00025">Forum Rules</span></a> <span style="color: #1A1A1A">----</span> <a href="http://forums.ltheory.com/viewtopic.php?f=2&amp;t=451" class="postlink"><span style="color: #A00025">Forum Search</span></a> <span style="color: #1A1A1A">----</span></span></strong><span style="font-size: 115%; line-height: normal"></span>
+							</div>
+				
+		
+	<p class="jumpbox-return"><a href="./viewforum.php?f=10&amp;sid=0da435ae2395ae97f23706c03a1d5285" accesskey="r"><i class="fa fa-chevron-left"></i>Return to “Everything &amp; Anything”</a></p>
+
+
+		<div class="action-bar-top">
+
+							<div class="pagination">
+					<ul><li class="active"><span>1</span></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=15" role="button">2</a></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=30" role="button">3</a></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=45" role="button">4</a></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=60" role="button">5</a></li><li class="ellipsis" role="separator"><span>…</span></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=315" role="button">22</a></li><li class="next"><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=15" rel="next" role="button"><i class="fa fa-chevron-right"></i></a></li></ul><div class="page-jump">
+		<a href="#" title="Click to jump to page…" data-toggle="dropdown">Page <strong>1</strong> of <strong>22</strong></a>
+		<ul class="dropdown-box">
+			<li class="page-jump-form"><input type="number" name="page-number" min="1" max="999999" title="Enter the page number you wish to go to" class="input" data-per-page="15" data-base-url=".&#x2F;viewtopic.php&#x3F;f&#x3D;10&amp;amp&#x3B;t&#x3D;5406&amp;amp&#x3B;sid&#x3D;0da435ae2395ae97f23706c03a1d5285" data-start-name="start" placeholder="Jump to page" /><input class="button" value="Go" type="button" /></li>
+		</ul>
+	</div>329 posts
+				</div>
+			
+			
+							<div>
+					<a class="button-round" data-toggle="dropdown" href="./search.php?sid=0da435ae2395ae97f23706c03a1d5285"><i class="fa fa-search"></i></a>
+					<div class="dropdown-search">
+						<form method="get" id="topic-search" action="./search.php?sid=0da435ae2395ae97f23706c03a1d5285">
+							<fieldset>
+								<button type="submit" title="Search"><i class="fa fa-search"></i></button><div><input type="search" name="keywords" id="search_keywords" size="20" placeholder="Search this topic…" /></div>
+								<input type="hidden" name="t" value="5406" />
+<input type="hidden" name="sf" value="msgonly" />
+<input type="hidden" name="sid" value="0da435ae2395ae97f23706c03a1d5285" />
+
+							</fieldset>
+						</form>
+					</div>
+				</div><div>
+					<span class="button-round" data-toggle="dropdown"><i class="fa fa-filter"></i></span>
+					<div class="dropdown-box-big">
+						<form method="post" action="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285">
+							<fieldset>
+								<div class="dropdown-header"><h5>Display posts from previous</h5></div>
+								<div class="dropdown-body"><select name="st" id="st"><option value="0" selected="selected">All posts</option><option value="1">1 day</option><option value="7">7 days</option><option value="14">2 weeks</option><option value="30">1 month</option><option value="90">3 months</option><option value="180">6 months</option><option value="365">1 year</option></select></div>
+								<div class="dropdown-header"><h5>Sort by</h5></div>
+								<div class="dropdown-body">
+									<select name="sk" id="sk"><option value="a">Author</option><option value="t" selected="selected">Post time</option><option value="s">Subject</option></select><select name="sd" id="sd"><option value="a" selected="selected">Ascending</option><option value="d">Descending</option></select>
+								</div>
+								<div class="dropdown-footer"><input type="submit" name="sort" value="Go" /></div>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+					</div>
+
+				
+		
+		</div>
+		<div class="chunk">
+	<div class="content-main">
+	<div class="content-main-inner">
+
+											<a id="p134524" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile134524">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=4000_1535399050.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a>													<span class="re-md-r"><br>
+							Vice Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=4000&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">2262</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Nov 23, 2015 10:05 pm</dd>
+								
+								
+								
+								
+																																																				<dt>Location:</dt>
+										<dd>United States.</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content134524">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=134524&amp;sid=0da435ae2395ae97f23706c03a1d5285#p134524" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p134524">Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=134524&amp;sid=0da435ae2395ae97f23706c03a1d5285#p134524">Sat Sep 17, 2016 8:54 pm</a></li>
+										<a href="./viewtopic.php?p=134524&amp;sid=0da435ae2395ae97f23706c03a1d5285#p134524" class="post-number">#1</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a></span>
+
+					
+					
+					<div class="post-content">So we have a <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=3207" class="postlink">Movies</a> thread, a <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=363" class="postlink">Music</a> thread, and a <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=1063" class="postlink">Books</a> thread. Why not an Images thread? <img class="smilies" src="./images/smilies/icon_ghost.gif" width="15" height="22" alt=":ghost:" title="Ghost"><br>
+<br>
+Because we obviously don't have enough of these pointless threads already, but this one is for those which do not happen to be <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=1834&amp;start=4770" class="postlink">Train</a>, <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=4637" class="postlink">Squirrel</a>, <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=4690" class="postlink">Duck</a>, <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=5315" class="postlink">Chicken</a>, <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=5311" class="postlink">Ghost</a>, <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=5321" class="postlink">Teddy Bear</a>, <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=2461" class="postlink">Cuteness</a>, and <a href="http://forums.ltheory.com/viewtopic.php?f=10&amp;t=5310" class="postlink">Monkey</a>.  <img class="smilies" src="./images/smilies/icon_twisted.gif" width="15" height="17" alt=":twisted:" title="Twisted Evil"> <img class="smilies" src="./images/smilies/icon_ghost.gif" width="15" height="22" alt=":ghost:" title="Ghost"> <br>
+<br>
+<br>
+I shall start with this one here:
+<img src="http://antti-juhani.kaijanaho.fi/kuvia/tsar-trek.jpg" class="post-image" alt="Image">
+ <img class="smilies" src="./images/smilies/icon_angel.gif" width="15" height="17" alt=":angel:" title="Angel"></div>
+
+															
+															<div id="sig134524" class="post-signature"><div style="text-align: center;">
+Please don't take my advice. You will wind up in jail if you do.<br>
+For some reason, I feel obliged to display how many people have talked in <a href="http://widget01.mibbit.com/?settings=c51ae70d311d3775944d6e80&amp;server=irc.web.gamesurge.net&amp;channel=%23limittheory" class="postlink">IRC</a> over the past 2 hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"> <img class="smilies" src="./images/smilies/icon_problem.gif" width="15" height="17" alt=":problem:" title="Problem"> <br>
+<img class="smilies" src="./images/smilies/icon_e_ugeek.gif" width="17" height="18" alt=":ugeek:" title="Uber Geek"><br>
+<img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=134524&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p134529" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile134529">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=4000_1535399050.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a>													<span class="re-md-r"><br>
+							Vice Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=4000&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">2262</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Nov 23, 2015 10:05 pm</dd>
+								
+								
+								
+								
+																																																				<dt>Location:</dt>
+										<dd>United States.</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content134529">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=134529&amp;sid=0da435ae2395ae97f23706c03a1d5285#p134529" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p134529">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=134529&amp;sid=0da435ae2395ae97f23706c03a1d5285#p134529">Sat Sep 17, 2016 11:18 pm</a></li>
+										<a href="./viewtopic.php?p=134529&amp;sid=0da435ae2395ae97f23706c03a1d5285#p134529" class="post-number">#2</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a></span>
+
+					
+					
+					<div class="post-content"><img src="http://lh3.googleusercontent.com/-uqSYQuWJorU/Uj6EY0OqCFI/AAAAAAAAv34/DUNz9XhlGSE/w506-h380/IMG_0824.GIF" class="post-image" alt="Image"></div>
+
+															
+															<div id="sig134529" class="post-signature"><div style="text-align: center;">
+Please don't take my advice. You will wind up in jail if you do.<br>
+For some reason, I feel obliged to display how many people have talked in <a href="http://widget01.mibbit.com/?settings=c51ae70d311d3775944d6e80&amp;server=irc.web.gamesurge.net&amp;channel=%23limittheory" class="postlink">IRC</a> over the past 2 hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"> <img class="smilies" src="./images/smilies/icon_problem.gif" width="15" height="17" alt=":problem:" title="Problem"> <br>
+<img class="smilies" src="./images/smilies/icon_e_ugeek.gif" width="17" height="18" alt=":ugeek:" title="Uber Geek"><br>
+<img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=134529&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135245" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135245">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=4000_1535399050.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a>													<span class="re-md-r"><br>
+							Vice Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=4000&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">2262</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Nov 23, 2015 10:05 pm</dd>
+								
+								
+								
+								
+																																																				<dt>Location:</dt>
+										<dd>United States.</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135245">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135245&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135245" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135245">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135245&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135245">Tue Oct 04, 2016 10:49 pm</a></li>
+										<a href="./viewtopic.php?p=135245&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135245" class="post-number">#3</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a></span>
+
+					
+					
+					<div class="post-content">Sometimes all you want in life is contained in a three key keyboard...
+<div style="padding: 3px; border: 1px solid #d8d8d8; font-size: 1em;"><div style="text-transform: uppercase; border-bottom: 1px solid #CCCCCC; margin-bottom: 3px; font-size: 0.8em; font-weight: bold; display: block;"><span onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') {  this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';
+		this.innerHTML = '&lt;b&gt;Spoiler:&lt;/b&gt;      &lt;a href=\'#\' onClick=\'return false;\'&gt;HIDE&lt;/a&gt;'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerHTML = '&lt;b&gt;Spoiler:&lt;/b&gt;      &lt;a href=\'#\' onClick=\'return false;\'&gt;SHOW&lt;/a&gt;'; }"><b>Spoiler:</b>      <a href="#" onclick="return false;">SHOW</a></span></div><div class="quotecontent"><div style="display: none;"><img src="http://www.codeproject.com/KB/clipboard/878773/copy-paste-csharp.jpg" class="post-image" alt="Image"></div></div></div>
+But perhaps that would clutter up your desk too much, so go for a two key keyboard...
+<div style="padding: 3px; border: 1px solid #d8d8d8; font-size: 1em;"><div style="text-transform: uppercase; border-bottom: 1px solid #CCCCCC; margin-bottom: 3px; font-size: 0.8em; font-weight: bold; display: block;"><span onclick="if (this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display != '') {  this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = '';
+		this.innerHTML = '&lt;b&gt;Spoiler:&lt;/b&gt;      &lt;a href=\'#\' onClick=\'return false;\'&gt;HIDE&lt;/a&gt;'; } else { this.parentNode.parentNode.getElementsByTagName('div')[1].getElementsByTagName('div')[0].style.display = 'none'; this.innerHTML = '&lt;b&gt;Spoiler:&lt;/b&gt;      &lt;a href=\'#\' onClick=\'return false;\'&gt;SHOW&lt;/a&gt;'; }"><b>Spoiler:</b>      <a href="#" onclick="return false;">SHOW</a></span></div><div class="quotecontent"><div style="display: none;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvuW74TK1a7KqNBPwd3Pp2w1-h5OWiAC9_oGTnl2YgpGM71ax" class="post-image" alt="Image"></div></div></div>
+ <img class="smilies" src="./images/smilies/icon_ghost.gif" width="15" height="22" alt=":ghost:" title="Ghost"></div>
+
+															
+															<div id="sig135245" class="post-signature"><div style="text-align: center;">
+Please don't take my advice. You will wind up in jail if you do.<br>
+For some reason, I feel obliged to display how many people have talked in <a href="http://widget01.mibbit.com/?settings=c51ae70d311d3775944d6e80&amp;server=irc.web.gamesurge.net&amp;channel=%23limittheory" class="postlink">IRC</a> over the past 2 hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"> <img class="smilies" src="./images/smilies/icon_problem.gif" width="15" height="17" alt=":problem:" title="Problem"> <br>
+<img class="smilies" src="./images/smilies/icon_e_ugeek.gif" width="17" height="18" alt=":ugeek:" title="Uber Geek"><br>
+<img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135245&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135247" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile135247">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=2367_1538671696.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #C0002A;" class="username-coloured">Talvieno</a>													<span class="re-md-r"><br>
+							Community Manager
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=2367&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">10307</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Fri Apr 11, 2014 6:50 pm</dd>
+								
+								
+								
+								
+																																			<dt>Location:</dt>
+										<dd>North GA, USA</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135247">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135247&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135247" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135247">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135247&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135247">Tue Oct 04, 2016 10:55 pm</a></li>
+										<a href="./viewtopic.php?p=135247&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135247" class="post-number">#4</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #C0002A;" class="username-coloured">Talvieno</a></span>
+
+					
+					
+					<div class="post-content">Not enough. I need my Ctrl+A and Ctrl+F. An alt-tab button might be nice too, and perhaps a windows+E. Also ctrl+shift+escape and just escape. Think that should have me covered. Probably.</div>
+
+															
+															<div id="sig135247" class="post-signature"><div style="text-align: center;">Have a question? <a href="http://forums.ltheory.com/ucp.php?i=pm&amp;mode=compose&amp;u=2367" class="postlink">Send me a PM!</a> || People talking <a href="http://widget01.mibbit.com/?settings=c51ae70d311d37759447d61c944d6e80&amp;server=irc.web.gamesurge.net:6670&amp;channel=%23limittheory" class="postlink">in IRC</a> over the past two hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"><br>
+<a href="http://forums.ltheory.com/viewforum.php?f=29" class="postlink"><img src="http://talvieno.com/sigs/5b32cbaeb2be6.png" class="post-image" alt="Image"></a><br>
+<a href="http://talvieno.com/Taiya/randomquotes.php" class="postlink"><img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></a></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135247&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135249" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135249">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=3879_1496455998.jpg" width="90" height="54" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">IronDuke</a>													<span class="re-md-r"><br>
+							Rear Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=3879&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">1735</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Aug 31, 2015 10:47 pm</dd>
+								
+								
+								
+								
+																																			<dt>Location:</dt>
+										<dd>Lucrecia's Base</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135249">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135249&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135249" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135249">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135249&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135249">Tue Oct 04, 2016 11:19 pm</a></li>
+										<a href="./viewtopic.php?p=135249&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135249" class="post-number">#5</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">IronDuke</a></span>
+
+					
+					
+					<div class="post-content"><img src="https://tinemettejespersen.files.wordpress.com/2012/03/ffftextthisisanimage.gif" class="post-image" alt="Image">
+
+--IronDuke</div>
+
+															
+															<div id="sig135249" class="post-signature"><div style="text-align: center;">Moving toward the future at 60 minutes per hour. <br>
+<a href="http://forums.ltheory.com/viewtopic.php?f=17&amp;t=4824" class="postlink">I-War 2 thread</a><br>
+<a href="http://forums.ltheory.com/viewtopic.php?f=2&amp;t=5865&amp;start=45#p144437" class="postlink">Epic Limit Theory Limerick</a></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135249&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135250" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile135250">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=139_1494362178.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Flatfingers</a>													<span class="re-md-r"><br>
+							Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=139&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">5280</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Sat Nov 24, 2012 12:45 am</dd>
+								
+								
+								
+								
+																																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135250">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135250&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135250" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135250">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135250&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135250">Tue Oct 04, 2016 11:29 pm</a></li>
+										<a href="./viewtopic.php?p=135250&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135250" class="post-number">#6</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Flatfingers</a></span>
+
+					
+					
+					<div class="post-content"><blockquote><div><cite>IronDuke wrote:</cite><img src="https://tinemettejespersen.files.wordpress.com/2012/03/ffftextthisisanimage.gif" class="post-image" alt="Image"></div></blockquote>
+
+<img src="http://www.renemagritte.org/images/paintings/the-treachery-of-images.jpg" class="post-image" alt="Image"></div>
+
+															
+																				
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135250&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135257" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135257">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=4000_1535399050.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a>													<span class="re-md-r"><br>
+							Vice Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=4000&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">2262</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Nov 23, 2015 10:05 pm</dd>
+								
+								
+								
+								
+																																																				<dt>Location:</dt>
+										<dd>United States.</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135257">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135257&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135257" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135257">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135257&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135257">Wed Oct 05, 2016 8:15 am</a></li>
+										<a href="./viewtopic.php?p=135257&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135257" class="post-number">#7</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=4000&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Detritus</a></span>
+
+					
+					
+					<div class="post-content"><blockquote><div><cite>Talvieno wrote:</cite>Not enough. I need my Ctrl+A and Ctrl+F. An alt-tab button might be nice too, and perhaps a windows+E. Also ctrl+shift+escape and just escape. Think that should have me covered. Probably.</div></blockquote>
+Well go invent your own mini-keyboard, patent it, sell it, get loads of money, and then have your job problems all solved. <img class="smilies" src="./images/smilies/icon_twisted.gif" width="15" height="17" alt=":twisted:" title="Twisted Evil">  <img class="smilies" src="./images/smilies/icon_ghost.gif" width="15" height="22" alt=":ghost:" title="Ghost"></div>
+
+															
+															<div id="sig135257" class="post-signature"><div style="text-align: center;">
+Please don't take my advice. You will wind up in jail if you do.<br>
+For some reason, I feel obliged to display how many people have talked in <a href="http://widget01.mibbit.com/?settings=c51ae70d311d3775944d6e80&amp;server=irc.web.gamesurge.net&amp;channel=%23limittheory" class="postlink">IRC</a> over the past 2 hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"> <img class="smilies" src="./images/smilies/icon_problem.gif" width="15" height="17" alt=":problem:" title="Problem"> <br>
+<img class="smilies" src="./images/smilies/icon_e_ugeek.gif" width="17" height="18" alt=":ugeek:" title="Uber Geek"><br>
+<img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135257&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135273" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile135273">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=139_1494362178.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Flatfingers</a>													<span class="re-md-r"><br>
+							Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=139&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">5280</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Sat Nov 24, 2012 12:45 am</dd>
+								
+								
+								
+								
+																																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135273">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135273&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135273" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135273">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135273&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135273">Wed Oct 05, 2016 7:12 pm</a></li>
+										<a href="./viewtopic.php?p=135273&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135273" class="post-number">#8</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Flatfingers</a></span>
+
+					
+					
+					<div class="post-content"><img src="http://www.explorergamer.com/Images/ThisIsNotAnImage.png" class="post-image" alt="Image"></div>
+
+															
+																				
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135273&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135277" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135277">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=372&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=372_1491840766.jpg" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=372&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">DWMagus</a>													<span class="re-md-r"><br>
+							Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=372&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">5126</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Wed Dec 05, 2012 3:25 pm</dd>
+								
+								
+								
+								
+																																																				<dt>Location:</dt>
+										<dd>Denver, CO, United States</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135277">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135277&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135277" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135277">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135277&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135277">Wed Oct 05, 2016 7:28 pm</a></li>
+										<a href="./viewtopic.php?p=135277&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135277" class="post-number">#9</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=372&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">DWMagus</a></span>
+
+					
+					
+					<div class="post-content"><img src="http://i.imgur.com/M9G0Dda.png" class="post-image" alt="Image"></div>
+
+															
+															<div id="sig135277" class="post-signature"><div style="text-align: center;"><img src="http://ltheory.com/ks/banners/2.png" class="post-image" alt="Image"><br>
+<strong>Early Spring - 1055:</strong> Well, I made it to Boatmurdered, and my initial impressions can be set forth in three words: What. <strong>The. <em><span style="text-decoration: underline">F*ck.</span></em></strong></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135277&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135278" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile135278">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=3118&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=3118_1497313920.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=3118&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">DigitalDuck</a>													<span class="re-md-r"><br>
+							Rear Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=3118&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">1546</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Sun Nov 23, 2014 1:53 pm</dd>
+								
+								
+								
+								
+																																																																					<dt>Location:</dt>
+										<dd>Lincs, UK</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135278">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135278&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135278" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135278">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135278&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135278">Wed Oct 05, 2016 7:44 pm</a></li>
+										<a href="./viewtopic.php?p=135278&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135278" class="post-number">#10</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=3118&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">DigitalDuck</a></span>
+
+					
+					
+					<div class="post-content"><img src="https://s11.postimg.org/gdywv8esj/Images.png" class="post-image" alt="Image"></div>
+
+															
+															<div id="sig135278" class="post-signature"><a href="https://www.youtube.com/watch?v=bVxIpJ4C0MA" class="postlink">Games I like, in order of how much I like them.</a> (Now permanent and updated regularly!)</div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135278&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135282" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135282">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=2367_1538671696.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #C0002A;" class="username-coloured">Talvieno</a>													<span class="re-md-r"><br>
+							Community Manager
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=2367&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">10307</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Fri Apr 11, 2014 6:50 pm</dd>
+								
+								
+								
+								
+																																			<dt>Location:</dt>
+										<dd>North GA, USA</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135282">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135282&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135282" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135282">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135282&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135282">Wed Oct 05, 2016 10:50 pm</a></li>
+										<a href="./viewtopic.php?p=135282&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135282" class="post-number">#11</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #C0002A;" class="username-coloured">Talvieno</a></span>
+
+					
+					
+					<div class="post-content"><img src="http://i.imgur.com/zTm2hwR.png" class="post-image" alt="Image"></div>
+
+															
+															<div id="sig135282" class="post-signature"><div style="text-align: center;">Have a question? <a href="http://forums.ltheory.com/ucp.php?i=pm&amp;mode=compose&amp;u=2367" class="postlink">Send me a PM!</a> || People talking <a href="http://widget01.mibbit.com/?settings=c51ae70d311d37759447d61c944d6e80&amp;server=irc.web.gamesurge.net:6670&amp;channel=%23limittheory" class="postlink">in IRC</a> over the past two hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"><br>
+<a href="http://forums.ltheory.com/viewforum.php?f=29" class="postlink"><img src="http://talvieno.com/sigs/5b32cbaeb2be6.png" class="post-image" alt="Image"></a><br>
+<a href="http://talvieno.com/Taiya/randomquotes.php" class="postlink"><img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></a></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135282&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135283" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile135283">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=3879_1496455998.jpg" width="90" height="54" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">IronDuke</a>													<span class="re-md-r"><br>
+							Rear Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=3879&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">1735</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Aug 31, 2015 10:47 pm</dd>
+								
+								
+								
+								
+																																			<dt>Location:</dt>
+										<dd>Lucrecia's Base</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135283">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135283&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135283" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135283">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135283&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135283">Wed Oct 05, 2016 10:51 pm</a></li>
+										<a href="./viewtopic.php?p=135283&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135283" class="post-number">#12</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">IronDuke</a></span>
+
+					
+					
+					<div class="post-content"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRk8t1Mfuq46tRZQhShh0NE3BLPGosVqx0WQBbRHbDEZ17GF_0V" class="post-image" alt="Image">
+ <img class="smilies" src="./images/smilies/icon_ghost.gif" width="15" height="22" alt=":ghost:" title="Ghost"> <br>
+<br>
+--IronDuke</div>
+
+															
+															<div id="sig135283" class="post-signature"><div style="text-align: center;">Moving toward the future at 60 minutes per hour. <br>
+<a href="http://forums.ltheory.com/viewtopic.php?f=17&amp;t=4824" class="postlink">I-War 2 thread</a><br>
+<a href="http://forums.ltheory.com/viewtopic.php?f=2&amp;t=5865&amp;start=45#p144437" class="postlink">Epic Limit Theory Limerick</a></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135283&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135284" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135284">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=2367_1538671696.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #C0002A;" class="username-coloured">Talvieno</a>													<span class="re-md-r"><br>
+							Community Manager
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=2367&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">10307</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Fri Apr 11, 2014 6:50 pm</dd>
+								
+								
+								
+								
+																																			<dt>Location:</dt>
+										<dd>North GA, USA</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135284">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135284&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135284" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135284">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135284&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135284">Wed Oct 05, 2016 10:57 pm</a></li>
+										<a href="./viewtopic.php?p=135284&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135284" class="post-number">#13</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=2367&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #C0002A;" class="username-coloured">Talvieno</a></span>
+
+					
+					
+					<div class="post-content"><img src="https://cdn-webimages.wimages.net/05195c373f991f15375965e82f98b9b3f1d49b-wm.jpg?v=3" class="post-image" alt="Image"></div>
+
+															
+															<div id="sig135284" class="post-signature"><div style="text-align: center;">Have a question? <a href="http://forums.ltheory.com/ucp.php?i=pm&amp;mode=compose&amp;u=2367" class="postlink">Send me a PM!</a> || People talking <a href="http://widget01.mibbit.com/?settings=c51ae70d311d37759447d61c944d6e80&amp;server=irc.web.gamesurge.net:6670&amp;channel=%23limittheory" class="postlink">in IRC</a> over the past two hours: <img src="http://talvieno.com/Taiya/onirc.php?" class="post-image" alt="Image"><br>
+<a href="http://forums.ltheory.com/viewforum.php?f=29" class="postlink"><img src="http://talvieno.com/sigs/5b32cbaeb2be6.png" class="post-image" alt="Image"></a><br>
+<a href="http://talvieno.com/Taiya/randomquotes.php" class="postlink"><img src="http://talvieno.com/Taiya/bestq.php?" class="post-image" alt="Image"></a></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135284&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135285" class="anchor"></a>
+			<div class="post has-profile bg1">
+
+				<aside class="postprofile" id="profile135285">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=3879_1496455998.jpg" width="90" height="54" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">IronDuke</a>													<span class="re-md-r"><br>
+							Rear Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=3879&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">1735</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Mon Aug 31, 2015 10:47 pm</dd>
+								
+								
+								
+								
+																																			<dt>Location:</dt>
+										<dd>Lucrecia's Base</dd>
+																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135285">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135285&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135285" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135285">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135285&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135285">Wed Oct 05, 2016 11:21 pm</a></li>
+										<a href="./viewtopic.php?p=135285&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135285" class="post-number">#14</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=3879&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">IronDuke</a></span>
+
+					
+					
+					<div class="post-content"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxu_MdZLF9PJ35EEpZbiLH1bJ3DRWknY9CQp1ye2smZmS0NSqVgg" class="post-image" alt="Image">
+
+--IronDuke</div>
+
+															
+															<div id="sig135285" class="post-signature"><div style="text-align: center;">Moving toward the future at 60 minutes per hour. <br>
+<a href="http://forums.ltheory.com/viewtopic.php?f=17&amp;t=4824" class="postlink">I-War 2 thread</a><br>
+<a href="http://forums.ltheory.com/viewtopic.php?f=2&amp;t=5865&amp;start=45#p144437" class="postlink">Epic Limit Theory Limerick</a></div></div>					
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135285&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+														<a id="p135286" class="anchor"></a>
+			<div class="post has-profile bg2">
+
+				<aside class="postprofile" id="profile135286">
+									<div class="has-profile-rank has-avatar">
+						<div class="avatar-container">
+																						<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="avatar"><img class="avatar" src="./download/file.php?avatar=139_1494362178.png" width="90" height="90" alt="User avatar" /></a>																				</div>
+												<a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Flatfingers</a>													<span class="re-md-r"><br>
+							Admiral
+														</span>
+												
+						<div class="standard-profile">
+							<dl class="profile-info">
+								
+																	<dt>Posts:</dt>
+									<dd><a href="./search.php?author_id=139&amp;sr=posts&amp;sid=0da435ae2395ae97f23706c03a1d5285">5280</a>									</dd>
+								
+																	<dt>Joined:</dt>
+									<dd>Sat Nov 24, 2012 12:45 am</dd>
+								
+								
+								
+								
+																																																</dl>
+
+																				</div>
+					</div>
+				</aside>
+
+				<article class="postbody">
+										<div id="post_content135286">
+
+					                    
+                    
+					<a class="unread" href="./viewtopic.php?p=135286&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135286" title="Post">
+						<i class="icon fa-file fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">Post</span>
+					</a>
+					<h3><a href="#p135286">Re: Images!</a></h3>
+					<li class="right post-date"><a href="./viewtopic.php?p=135286&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135286">Thu Oct 06, 2016 1:23 am</a></li>
+										<a href="./viewtopic.php?p=135286&amp;sid=0da435ae2395ae97f23706c03a1d5285#p135286" class="post-number">#15</a>
+					
+					<span class="re-md post-author-r">by <a href="./memberlist.php?mode=viewprofile&amp;u=139&amp;sid=0da435ae2395ae97f23706c03a1d5285" style="color: #B1E051;" class="username-coloured">Flatfingers</a></span>
+
+					
+					
+					<div class="post-content">I was just waiting for that foghorn sound from <em>Inception</em> to kick in....</div>
+
+															
+																				
+					
+					
+																													<ul class="post-actions">
+																<li><a href="./posting.php?mode=quote&amp;f=10&amp;p=135286&amp;sid=0da435ae2395ae97f23706c03a1d5285" title="Reply with quote"><span>Quote</span></a></li>															</ul>
+																						
+					</div>
+														</article>
+			</div>
+
+					
+		
+	</div>
+	</div>
+
+	
+	</div>
+	<div class="chunk">
+
+				<div class="action-bar-bottom">
+			<div class="pagination">
+					<ul><li class="active"><span>1</span></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=15" role="button">2</a></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=30" role="button">3</a></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=45" role="button">4</a></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=60" role="button">5</a></li><li class="ellipsis" role="separator"><span>…</span></li><li><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=315" role="button">22</a></li><li class="next"><a href="./viewtopic.php?f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285&amp;start=15" rel="next" role="button"><i class="fa fa-chevron-right"></i></a></li></ul><div class="page-jump">
+		<a href="#" title="Click to jump to page…" data-toggle="dropdown">Page <strong>1</strong> of <strong>22</strong></a>
+		<ul class="dropdown-box">
+			<li class="page-jump-form"><input type="number" name="page-number" min="1" max="999999" title="Enter the page number you wish to go to" class="input" data-per-page="15" data-base-url=".&#x2F;viewtopic.php&#x3F;f&#x3D;10&amp;amp&#x3B;t&#x3D;5406&amp;amp&#x3B;sid&#x3D;0da435ae2395ae97f23706c03a1d5285" data-start-name="start" placeholder="Jump to page" /><input class="button" value="Go" type="button" /></li>
+		</ul>
+	</div>329 posts</div><a href="./posting.php?mode=reply&amp;f=10&amp;t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285" class="button icon-button reply-icon" title="Post a reply">
+					<i class="fa fa-pencil"></i><span>Post Reply</span>				</a>		</div>
+
+		
+		
+	<p class="jumpbox-return"><a href="./viewforum.php?f=10&amp;sid=0da435ae2395ae97f23706c03a1d5285" accesskey="r"><i class="fa fa-chevron-left"></i>Return to “Everything &amp; Anything”</a></p>
+
+
+	</div>
+</div>
+
+<div class="background-deep">
+	<div class="chunk">
+					<div class="stat-block online-list">
+				<h3>Online Now</h3>
+				<p>Users browsing this forum: No registered users and 0 guests</p>
+			</div>
+			</div>
+</div>
+
+			</div>
+
+		<div id="wrap-footer">
+			<div class="site-footer chunk">
+				<nav>
+					<ul>
+						<li>
+														<a href="./index.php?sid=0da435ae2395ae97f23706c03a1d5285" data-navbar-reference="index">LT Forums</a>
+							</li><li>
+								<a href="/app.php/help/faq?sid=0da435ae2395ae97f23706c03a1d5285" rel="help" title="Frequently Asked Questions">FAQ</a>
+							</li><li>
+								<a href="./memberlist.php?mode=contactadmin&amp;sid=0da435ae2395ae97f23706c03a1d5285">Contact us</a>
+							</li><li class="rside">
+							All times are <span title="UTC-6">UTC-06:00</span>
+						</li><li class="rside">
+							It is currently Fri Nov 02, 2018 1:31 pm
+						</li>
+					</ul>
+				</nav>
+
+				
+			</div>
+		</div>
+
+		</div>
+		</div>
+
+				<div class="modal fade" id="quick-login" tabindex="-1" role="dialog" aria-labelledby="Login">
+			<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<form method="post" action="./ucp.php?mode=login&amp;sid=0da435ae2395ae97f23706c03a1d5285">
+					<fieldset>
+						<div class="modal-header">
+							<button type="button" data-dismiss="modal" class="modal-close"><i class="fa fa-times"></i></button>
+							<h4 id="Login"><a href="./ucp.php?mode=login&amp;sid=0da435ae2395ae97f23706c03a1d5285">Login</a></h4>
+						</div>
+						<div class="modal-body">
+							<label for="username"><span class="w-input">Username:</span><br><input type="text" tabindex="1" name="username" id="username" size="10" class="input" title="Username" /></label><br>
+							<label for="password"><span class="w-input">Password:</span><br><input type="password" tabindex="2" name="password" id="password" size="10" class="input" title="Password" autocomplete="off" /></label><br>
+																					<label for="autologin"><input type="checkbox" tabindex="4" name="autologin" id="autologin" class="check" /><span class="check"></span><span>Remember me</span></label><br>
+														<label for="viewonline"><input type="checkbox" name="viewonline" id="viewonline" tabindex="5" class="check" /><span class="check"></span><span>Hide my online status this session</span></label>
+						</div>
+						<div class="modal-footer w-register-link">
+							<input type="submit" tabindex="5" name="login" value="Login" class="button" />
+																						<a href="./ucp.php?mode=register&amp;sid=0da435ae2395ae97f23706c03a1d5285">Register</a>
+														<input type="hidden" name="redirect" value="./viewtopic.php?t=5406&amp;sid=0da435ae2395ae97f23706c03a1d5285" />
+
+						</div>
+					</fieldset>
+				</form>
+			</div>
+			</div>
+		</div>
+		
+		<div style="display: none;">
+			<a id="bottom" class="anchor" accesskey="z"></a>
+			<img src="./cron.php?cron_type=cron.task.text_reparser.user_signature&amp;sid=0da435ae2395ae97f23706c03a1d5285" width="1" height="1" alt="cron" />		</div>
+
+		<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+			<div id="darken" class="darken"></div>
+		</div>
+
+		<div id="phpbb_alert" class="modal-bb" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+			<div class="modal-bb-content">
+				<div class="modal-bb-body">
+					<a href="#" class="modal-bb-close alert_close"><i class="fa fa-times"></i></a>
+					<span class="alert_title"></span>
+					<p class="alert_text"></p>
+				</div>
+			</div>
+		</div>
+		<div id="phpbb_confirm" class="modal-bb">
+			<div class="modal-bb-content">
+				<div class="modal-bb-body">
+					<a href="#" class="modal-bb-close alert_close"><i class="fa fa-times"></i></a>
+					<p class="alert_text"></p>
+				</div>
+			</div>
+		</div>
+
+		<script type="text/javascript" src="./assets/javascript/jquery.min.js?assets_version=21"></script>
+		<script type="text/javascript" src="./styles/ravaio/template/core.min.js?assets_version=21"></script>
+								
+		<script>
+			$(function() {
+				$('select').chosen({
+					width: "auto",
+					disable_search_threshold: 6
+				});
+			});
+
+			$('.dropdown-profile .w-drop, .dropdown-box-big .w-drop, .dropdown-mega .w-drop, .dropdown-box .w-drop').click(function(e) {
+				$(this).toggleClass('open');
+				$(this).next('.dropdown-box-big, .dropdown-mega, .dropdown-box').toggle();
+				e.stopPropagation();
+				e.preventDefault();
+			});
+
+			$('.dropdown-box-big').click(function(e) {
+				if ($(this).children('form')) {
+					e.stopPropagation();
+				}
+			});
+
+			$('#quick-login').on('shown.bs.modal', function () {
+			  $('#username').focus();
+			});
+
+			$('#main-search-box').on('shown.bs.dropdown', function () {
+			  $('#main-search').focus();
+			});
+
+			$('#side-toggle').click(function() {
+				$("#side-toggle").toggleClass('side-toggle');
+				$("#cp-sidebar").toggleClass('cp-sidebar-visible');
+				$("#cp-main").toggleClass('cp-sidebar-visible');
+			});
+		</script>
+
+        <script>
+            if (document.URL.indexOf('f=29') != -1) {
+                document.getElementById('sub-header').className = 'rekt-banner';
+                if (document.URL === 'http://forums.ltheory.com/viewforum.php?f=29'){
+                    document.getElementById('sub-header').style.padding = '130px 0 70px';
+                }
+                var elements = document.getElementsByClassName('post-content');
+                for (var i = 0; i < elements.length; i++) {
+                    if (elements[i].innerHTML.startsWith("[IC]") || elements[i].innerHTML.startsWith('<span style="color: transparent;">[IC]')){
+                        var child2 = elements[i].parentElement.parentElement.parentElement.getElementsByClassName('postprofile')[0].getElementsByClassName('has-profile-rank')[0].getElementsByClassName("username-coloured")[0];
+                        child2.innerHTML = elements[i].innerHTML.split("[IC]")[1].split("[/IC]")[0] + " (" + child2.innerHTML + ")";
+                        elements[i].innerHTML = elements[i].innerHTML.replace("<span style=\"color: transparent;\">[IC]","[IC]").replace("[/IC]</span>","[/IC]").replace("[/IC]<br>","[/IC]").replace("[IC]" + elements[i].innerHTML.split("[IC]")[1].split("[/IC]")[0] + "[/IC]","");
+                    }
+                }
+            }
+        </script>
+
+		
+		<script type="text/javascript" src="./styles/ravaio/template/forum_fn.min.js?assets_version=21"></script>
+<script type="text/javascript" src="./styles/ravaio/template/ajax.min.js?assets_version=21"></script>
+<script type="text/javascript" src="./styles/ravaio/template/bootstrap.min.js?assets_version=21"></script>
+<script type="text/javascript" src="./styles/ravaio/template/chosen.jquery.min.js?assets_version=21"></script>
+
+
+	</body>
+</html>

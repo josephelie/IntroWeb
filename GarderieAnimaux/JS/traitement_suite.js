@@ -59,7 +59,7 @@ function btnCalculer_onclick()
         case "Mélissa Caron" : nom = "Mélissa Caron";
                          tauxhoraire = 45;
                          break;
-                         document.getElementById("saitama")
+
     }
     montant = jour * tauxhoraire * horaire + tarif;
     montant = montant * rabais;
