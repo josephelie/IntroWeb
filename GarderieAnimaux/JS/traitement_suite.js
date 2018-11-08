@@ -1,11 +1,11 @@
-function btnCalculer_onclick()
-{ 
- 	var veterinaire,jour,TarifToilet,animal,Toiletage,rabais,horaire,tarif,tauxhoraire, montantfinal,montant,tps,tvq;
 
- 	veterinaire = document.getElementById("lstVeterinaire").value;
- 	jour = parseFloat(document.getElementById("txtNbreJours").value);
+    var veterinaire,jour,TarifToilet,animal,Toiletage,rabais,horaire,tarif,tauxhoraire, montantfinal,montant,tps,tvq;
 
+    veterinaire = document.getElementById("lstVeterinaire").value;
+    jour = parseFloat(document.getElementById("txtNbreJours").value);
 
+function solution()
+{
     if(document.getElementById("chkServ").checked === true )
     {
         TarifToilet = 5;
@@ -17,21 +17,21 @@ function btnCalculer_onclick()
         Toiletage = "sans";
     }
 
-   if (document.getElementById("radChien").checked === true )
-   {
-       tarif = 18.50;
-       animal = "chien";
-   }
-   else
-   {
-       tarif = 16.95;
-       animal = "chat";
-   }
+    if (document.getElementById("radChien").checked === true )
+    {
+        tarif = 18.50;
+        animal = "chien";
+    }
+    else
+    {
+        tarif = 16.95;
+        animal = "chat";
+    }
 
-   if(jour <= 1 && jour < 5)
-   {
-    rabais = 1;
-   }
+    if(jour <= 1 && jour < 5)
+    {
+        rabais = 1;
+    }
     if(jour <= 5 && jour < 10)
     {
         rabais = 0.95;
@@ -48,17 +48,17 @@ function btnCalculer_onclick()
     switch (veterinaire)
     {
         case "Audrey Bouchard" : nom = "Audrey Bouchard";
-                        tauxhoraire = 25;
-                        break;
+            tauxhoraire = 25;
+            break;
         case "Stéphane Tremblay" :nom = "Stéphane Tremblay";
-                         tauxhoraire = 35;
-                         break;
+            tauxhoraire = 35;
+            break;
         case "Maxime Simard" : nom = "Maxime  Simard";
-                         tauxhoraire = 40;
-                         break;
+            tauxhoraire = 40;
+            break;
         case "Mélissa Caron" : nom = "Mélissa Caron";
-                         tauxhoraire = 45;
-                         break;
+            tauxhoraire = 45;
+            break;
 
     }
     montant = jour * tauxhoraire * horaire + tarif;
@@ -66,7 +66,12 @@ function btnCalculer_onclick()
     tps = montant * 0.05;
     tvq = montant * 0.09975;
     montantfinal = montant + tps + tvq ;
-    document.getElementById("lblMessage").innerHTML ="Vètérinaire responsable est " + veterinaire + "." + "Le montant pour la garde de votre " + animal + " est de " + montantfinal + " pour " + jour + " jours," + Toiletage + " service de toilettage.";
-
-
 }
+    function btnCalculer_onclick()
+    {
+        alert("Le véterinaire responsable est unknow. Le montant pour la garde de votre  umknow est de unknow  pour  unknow  jours  Toiletage unknow.");
+        solution();
+        alert("Le véterinaire responsable est " + veterinaire + "." + "Le montant pour la garde de votre " + animal + " est de " + montantfinal + " pour " + jour + " jours," + Toiletage + " service de toilettage.");
+    }
+
+
