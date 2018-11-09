@@ -1,19 +1,42 @@
-function btnCalculer_onclick()
-{ 
-    var nom,point;
+var nom,points,cpt;
 
-    nom =(document.getElementById("txtNom").value);
-    point = parse.Float(document.getElementById("txtPoints").value);
+TabNomJoueur = new Array(4);
+TabPoints = new Array(4);
 
-    Tabnom[0] = Bob;
-    Tabnom[1] = Richard;
-    Tabnom[2] = Billy;
-    tabnom[3] = Joe;
-    for(i = 0; i< Tabnom.lenght; i++)
+
+nom = document.getElementById("txtNom").value;
+point = document.getElementById("txtPoints").value;
+
+
+cpt = 1;
+
+function btnAjouter_onclick()
+{
+
+    if(cpt < 4)
     {
-     if (Tabnom[i] === nom)
-     {
-        alert("nom")
-     }
+        cpt++;
+        TabNomJoueur[cpt-1] = nom;
+        TabPoints[cpt-1] = point;
+
     }
+    document.getElementById("lblNbreJoueur").innerHTML = "Numéro du joueur" + " " + cpt;
 }
+function btnTrouverMoy_onclick()
+{
+
+
+}
+
+function btnTrouverMeilleur_onclick()
+{
+
+}
+
+function btnTrouverPire_onclick()
+{
+
+}
+
+
+
