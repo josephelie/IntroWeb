@@ -10,7 +10,7 @@ function btnAjouter_onclick()
     joueur[nbturn]= document.getElementById("txtNom").value;
     Pointjoueur[numJoueur] = document.getElementById("txtPoints").value;
 
-    if(numJoueur < 5)
+    if(numJoueur < 4)
     {
         nbturn++;
         numJoueur ++;
