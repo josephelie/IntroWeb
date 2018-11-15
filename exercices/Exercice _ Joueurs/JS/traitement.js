@@ -39,7 +39,7 @@ function btnTrouverMoy_onclick()
         total = total + Pointjoueur[i];
     }
     total = total / 4;
-    document.getElementById("lblReponse").innerHTML = "La moyenne est de " + total + " points";
+    return total;
 }
 function btnTrouverMeilleur_onclick()
 {
