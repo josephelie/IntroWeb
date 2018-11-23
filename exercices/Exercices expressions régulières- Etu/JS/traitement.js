@@ -1,6 +1,6 @@
 function btnValider_onclick()  //mettre la fonction dans un IF tester une fonction à la fois
 {
-   alert(validerNAS(document.getElementById("btnValider").value));
+   alert(verifierEntreDixTrente(document.getElementById("btnValider").value));
 }
 
 function validerNAS( Chaine )  // numéro d'assurance social 418 789 123
